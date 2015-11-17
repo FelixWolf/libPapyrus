@@ -1,0 +1,25 @@
+==IMPORTANT==
+This is a WORK IN PROGRESS and has very few features at the moment.
+You are free to contribute features if you wish though!
+
+==Description==
+At the moment, libPapyrus_Decoder_Test.py is hard coded.
+To use it, make sure to change the path to your fallout 4 root folder.
+
+Planned features:
+• Python to Pex compiler
+• Pex to Python decompiler
+• Pex parser
+
+==How do I get the scripts?==
+Due to legal reasons, I cannot redistribute the offical bethesda pex files.
+You will need to unpack them from "Fallout 4 - misc.ba2".
+
+You can get a tool that does this at http://f4se.silverlock.org/
+
+==Contribution notice==
+'''DO NOT INCLUDE PEX FILES FROM BETHESDA'''
+This INCLUDES decompiled pex files, even if they are in .py format.
+
+Additionally, do not push __pycache__/ directories.
+This is in the .gitignore in this repo.
